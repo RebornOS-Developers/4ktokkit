@@ -4,7 +4,7 @@
 pkgname=4ktokkit
 pkgver=0.9.5
 pkgrel=1
-pkgdesc="Enjoy videos anywhere, anytime regardless of whether you are offline."
+pkgdesc="Download all videos from TikTok hashtags and users in one click."
 arch=('any')
 url="https://dl.4kdownload.com/app"
 license=('Custom')
